@@ -5,3 +5,5 @@
            Make minor adjustments based on the assignment
 
 2026/4/5 - Completed Part 1 of the assignment requirements
+
+2026/4/7 - Part 2 finished.
